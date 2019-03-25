@@ -1,0 +1,33 @@
+Project Name: Online Exam Placement System
+How to run this Project
+
+1. Download and Unzip file on your local system copy OEPS folder.
+
+2. Put OEPS folder inside root directory
+
+Database Configuration
+
+Open phpmyadmin
+Create Database srms
+Import database srms.sql (available inside zip package)
+
+For Student
+
+Open Your browser put inside browser “http://localhost/OEPS”
+Then click the button "Click here" to go to the login page.
+Details of student  --
+
+
+        1) Matric Number: MC1506BC9049
+        2) Student Name: Khairy Kelifa 
+
+
+
+For Admin Panel
+
+Open Your browser put inside browser “http://localhost/OEPS”
+Login Details for admin :
+     1)  Name:  admin
+     2) Password: K123456
+
+
